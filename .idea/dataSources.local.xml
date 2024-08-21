@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-223.7571.203">
+    <data-source name="university-management@localhost" uuid="0b1c10ae-c8bb-4b27-971f-63b69d0cd1a2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>admin</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="tim@localhost" uuid="8752b6a6-af74-4b67-ab50-91478b044dd7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>tim</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
